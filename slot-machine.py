@@ -62,3 +62,4 @@ def play_game():
         
     print("Game Over. You have run out of money.")
 
+# Start the game
