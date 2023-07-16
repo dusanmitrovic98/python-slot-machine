@@ -6,3 +6,4 @@ payouts = {
     "Cherry": 2,
     "Lemon": 3,
     "Orange": 4,
+    "Plum": 5,
