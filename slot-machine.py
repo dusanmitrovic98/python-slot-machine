@@ -27,3 +27,4 @@ def calculate_payout(reels):
     # Check if any two symbols are the same
     elif len(set(reels)) == 2:
         symbol = max(set(reels), key=reels.count)
+        return payouts[symbol]
