@@ -57,3 +57,4 @@ def play_game():
         if payout > 0:
             print(f"You won ${payout}!")
         else:
+            print("Better luck next time!")
