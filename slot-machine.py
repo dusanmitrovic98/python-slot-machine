@@ -33,3 +33,4 @@ def calculate_payout(reels):
 
 # Function to play the game
 def play_game():
+    money = 100
