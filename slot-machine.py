@@ -42,3 +42,4 @@ def play_game():
         # Spin the slot machine
         reels = spin_slot_machine()
         
+        # Calculate the payout
