@@ -15,3 +15,4 @@ payouts = {
 # Function to spin the slot machine
 def spin_slot_machine():
     # Generate three random symbols
+    reels = [random.choice(symbols) for _ in range(3)]
