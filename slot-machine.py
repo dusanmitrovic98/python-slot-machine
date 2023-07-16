@@ -8,3 +8,4 @@ payouts = {
     "Orange": 4,
     "Plum": 5,
     "Bell": 6,
+    "Bar": 7,
