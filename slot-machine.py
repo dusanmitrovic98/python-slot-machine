@@ -18,3 +18,4 @@ def spin_slot_machine():
     reels = [random.choice(symbols) for _ in range(3)]
     return reels
 
+# Function to calculate the payout
