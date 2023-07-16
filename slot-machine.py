@@ -53,3 +53,4 @@ def play_game():
             money -= 5
         
         # Display the result
+        print(f"\nReels: {', '.join(reels)}")
