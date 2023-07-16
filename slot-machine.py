@@ -9,3 +9,4 @@ payouts = {
     "Plum": 5,
     "Bell": 6,
     "Bar": 7,
+    "Seven": 10
