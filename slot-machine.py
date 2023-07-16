@@ -37,3 +37,4 @@ def play_game():
     while money > 0:
         print("----- Slot Machine -----")
         print(f"Current Money: ${money}")
+        input("Press Enter to spin the slot machine.")
