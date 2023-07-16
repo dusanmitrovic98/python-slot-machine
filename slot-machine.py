@@ -44,3 +44,4 @@ def play_game():
         
         # Calculate the payout
         payout = calculate_payout(reels)
+        
