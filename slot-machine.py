@@ -55,3 +55,4 @@ def play_game():
         # Display the result
         print(f"\nReels: {', '.join(reels)}")
         if payout > 0:
+            print(f"You won ${payout}!")
