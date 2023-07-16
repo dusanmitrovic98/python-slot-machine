@@ -58,3 +58,4 @@ def play_game():
             print(f"You won ${payout}!")
         else:
             print("Better luck next time!")
+        print("------------------------\n")
