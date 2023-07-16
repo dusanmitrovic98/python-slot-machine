@@ -49,3 +49,4 @@ def play_game():
         money += payout
         
         # Deduct money if no payout
+        if payout == 0:
