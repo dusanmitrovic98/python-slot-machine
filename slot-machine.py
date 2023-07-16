@@ -12,3 +12,4 @@ payouts = {
     "Seven": 10
 }
 
+# Function to spin the slot machine
