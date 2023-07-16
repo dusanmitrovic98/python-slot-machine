@@ -52,3 +52,4 @@ def play_game():
         if payout == 0:
             money -= 5
         
+        # Display the result
