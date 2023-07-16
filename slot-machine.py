@@ -30,3 +30,4 @@ def calculate_payout(reels):
         return payouts[symbol]
     else:
         return 0
+
