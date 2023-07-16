@@ -39,3 +39,4 @@ def play_game():
         print(f"Current Money: ${money}")
         input("Press Enter to spin the slot machine.")
         
+        # Spin the slot machine
