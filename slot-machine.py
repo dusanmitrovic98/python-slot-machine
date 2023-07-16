@@ -48,3 +48,4 @@ def play_game():
         # Update the money balance
         money += payout
         
+        # Deduct money if no payout
