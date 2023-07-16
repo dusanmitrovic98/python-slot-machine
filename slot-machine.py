@@ -10,3 +10,4 @@ payouts = {
     "Bell": 6,
     "Bar": 7,
     "Seven": 10
+}
