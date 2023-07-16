@@ -60,3 +60,4 @@ def play_game():
             print("Better luck next time!")
         print("------------------------\n")
         
+    print("Game Over. You have run out of money.")
