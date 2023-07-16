@@ -24,3 +24,4 @@ def calculate_payout(reels):
     if len(set(reels)) == 1:
         symbol = reels[0]
         return payouts[symbol] * 10
+    # Check if any two symbols are the same
