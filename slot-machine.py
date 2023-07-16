@@ -11,3 +11,4 @@ payouts = {
     "Bar": 7,
     "Seven": 10
 }
+
