@@ -5,3 +5,4 @@ symbols = ["Cherry", "Lemon", "Orange", "Plum", "Bell", "Bar", "Seven"]
 payouts = {
     "Cherry": 2,
     "Lemon": 3,
+    "Orange": 4,
