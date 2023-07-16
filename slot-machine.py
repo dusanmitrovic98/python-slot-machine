@@ -40,3 +40,4 @@ def play_game():
         input("Press Enter to spin the slot machine.")
         
         # Spin the slot machine
+        reels = spin_slot_machine()
