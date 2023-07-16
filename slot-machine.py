@@ -35,3 +35,4 @@ def calculate_payout(reels):
 def play_game():
     money = 100
     while money > 0:
+        print("----- Slot Machine -----")
