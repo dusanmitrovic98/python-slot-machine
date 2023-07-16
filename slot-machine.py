@@ -28,3 +28,4 @@ def calculate_payout(reels):
     elif len(set(reels)) == 2:
         symbol = max(set(reels), key=reels.count)
         return payouts[symbol]
+    else:
