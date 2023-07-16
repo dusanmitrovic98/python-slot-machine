@@ -21,3 +21,4 @@ def spin_slot_machine():
 # Function to calculate the payout
 def calculate_payout(reels):
     # Check if all three symbols are the same
+    if len(set(reels)) == 1:
