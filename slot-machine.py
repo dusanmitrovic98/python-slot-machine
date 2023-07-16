@@ -46,3 +46,4 @@ def play_game():
         payout = calculate_payout(reels)
         
         # Update the money balance
+        money += payout
