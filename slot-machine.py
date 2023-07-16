@@ -36,3 +36,4 @@ def play_game():
     money = 100
     while money > 0:
         print("----- Slot Machine -----")
+        print(f"Current Money: ${money}")
