@@ -31,3 +31,4 @@ def calculate_payout(reels):
     else:
         return 0
 
+# Function to play the game
