@@ -13,3 +13,4 @@ payouts = {
 }
 
 # Function to spin the slot machine
+def spin_slot_machine():
